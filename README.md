@@ -10,7 +10,7 @@
    ```
 2. Construa a imagem a partir do dockerfile.
 
-3. Para executa-lá basta ir até o ícone do docker clicar "image", procurar pelo nome da aplicação, e posteriormente clicar com direito em "run" na imagem.
+3. Para executa-lá basta ir até o ícone do docker clicar em "image", procurar pelo nome da aplicação, e posteriormente clicar com direito em "run" na aplicação.
 
 4. Volte no terminal e execute a aplicação python com o comando:
     ```
